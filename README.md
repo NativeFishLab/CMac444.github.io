@@ -1,4 +1,4 @@
-<header>
+Greetings! My name is CMac and I'm learning GitHu b for th first time to help create and update my companys website. Wish me luck!<header>
 
 <!--
   <<< Author notes: Course header >>>
